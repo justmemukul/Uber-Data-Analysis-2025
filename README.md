@@ -1,4 +1,5 @@
 # 🚖 Uber Operational Performance Analysis (2025)
+| :--- | :--- | :--- |<img width="1680" height="1050" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/e2b23885-4317-4fd6-91c1-b53a3ffda3d1" />
 
 ## 📌 Executive Summary
 This project provides an advanced analytical review of Uber's operational performance using a dataset of **150,000 records**. By leveraging Power BI, I developed an interactive dashboard to evaluate booking efficiency, revenue drivers, and operational friction. 
@@ -20,7 +21,8 @@ The most significant finding is a **38% cancellation/drop-off rate** (57K lost b
 
 ### 2. Revenue & Vehicle Dynamics
 | Vehicle Segment | Completed Rides | Revenue Generated |
-| :--- | :--- | :--- |
+
+
 | **Auto** | 23,128 | $13M |
 | **Bike** | 20,560 | $11M |
 | **Premier Sedan** | 11,247 | $6.2M |
